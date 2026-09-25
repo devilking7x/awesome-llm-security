@@ -55,6 +55,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/razashariff/mcps-audit?style=social) [**MCPs-audit**](https://github.com/razashariff/mcps-audit) OWASP Security Scanner for MCP Servers
 - ![GitHub Repo stars](https://img.shields.io/github/stars/Aveerayy/agent-guard?style=social) [**Agent Guard**](https://github.com/Aveerayy/agent-guard) Runtime governance firewall for AI agents, policy enforcement, MCP tool scanning
 - ![GitHub Repo stars](https://img.shields.io/github/stars/MAUROCERON/ai-agent-security-mini-audit?style=social) [**AI Agent Risk Self-Check**](https://github.com/MAUROCERON/ai-agent-security-mini-audit): Browser self-check for AI-agent workflow risks (OWASP/NIST mapping)
+- ![GitHub Repo stars](https://img.shields.io/github/stars/devilking7x/skillbadge?style=social) [**SkillBadge**](https://github.com/devilking7x/skillbadge) In-browser trust scanner for AI agent skill files (SKILL.md): detects prompt-injection phrases, exfiltration URLs, curl|bash pipes, secrets, and obfuscation, with a 0-100 trust score, downloadable badge, and CI-friendly JSON report
 
 ---
 
