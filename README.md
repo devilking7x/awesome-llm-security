@@ -125,6 +125,7 @@
 - ![GitHub Repo stars](https://img.shields.io/github/stars/jinyounghub/agentic-workflow-guard?style=social) [**agentic-workflow-guard**](https://github.com/jinyounghub/agentic-workflow-guard): CLI and GitHub Action detecting prompt-injection paths in AI-powered GitHub Actions workflows
 - [AIDEFEND](https://edward-playground.github.io/aidefense-framework/): Practical knowledge base for AI security defenses
 - [OWASP Agent Memory Guard](https://github.com/OWASP/www-project-agent-memory-guard): Reference implementation for ASI06 (Memory Poisoning). Runtime defense for LLM agent memory.
+- ![GitHub Repo stars](https://img.shields.io/github/stars/securetron-gh/aifw?style=social) [**AI-FW**](https://aifw.io) Self-hosted AI firewall and governance gateway for AI agents: prompt-injection/jailbreak blocking, PII masking, policy enforcement, model routing, and metadata-only audit logging
 
 ---
 
